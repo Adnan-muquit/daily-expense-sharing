@@ -29,6 +29,11 @@ The **Daily Expenses Sharing Application** backend is a Node.js service that all
 - **NPM**: ^6.14.0
 
 ---
+## Procedure to implement
+- enter command 'npm install' to install all the dependencies
+- start the server by 'npm start' or 'nodemon serve.js' command
+- test the api by using postman or any other similar app
+---
 
 ## Installation
 
